@@ -1,0 +1,31 @@
+.title_box {
+    background: url(/owarai.sozai/gion_slide01.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    color: rgb(249, 247, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 80px;
+}
+
+.Sub_title {
+    font-size: 45px;
+    color: darkturquoise;
+}
+
+.menu_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    width: 25%;
+    height: 3em;
+}
